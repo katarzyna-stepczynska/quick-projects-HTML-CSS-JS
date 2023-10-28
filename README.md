@@ -3,7 +3,7 @@
 ### Practise coding with [Traversy Media](https://traversymedia.com)
 
 ##### Introduction:
-Using React, Node.js, Express & MongoDB to build a Full Stack MERN Project - from start to finish. Use Tailwind CSS framework. Use Vite to generate react file and folder structure. No libraries used
+Using HTML, CSS and Javascript to build a mini projects that may be needed for web applications. No libraries used.
 
 ##### Status:
 Count of make projects: **1**
