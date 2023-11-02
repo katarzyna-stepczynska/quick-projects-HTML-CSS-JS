@@ -9,16 +9,16 @@ next.addEventListener("click", () => {
   currentActive++;
   if (currentActive > circles.length) {
     currentActive = circles.length; // max 4, not go to five if currentActive++
-    update();
   }
+  update();
 });
 
 prev.addEventListener("click", () => {
-  currentActive;
+  currentActive--;
   if (currentActive < 1) {
     currentActive = 1; // min 1, not under into 0 if currentActive--
-    update();
   }
+  update();
 });
 
 const update = () => {
@@ -35,7 +35,7 @@ const update = () => {
     ((actives.length - 1) / (circles.length - 1)) * 100 + "%"; // progress bar to fill with width in percentage, we want to 33%, 66%, not 50%, 75%
   if (currentActive === 1) {
     prev.disabled = true;
-  } else if ((currentActive = circles.length)) {
+  } else if (currentActive === circles.length) {
     next.disabled = true;
   } else {
     prev.disabled = false;
