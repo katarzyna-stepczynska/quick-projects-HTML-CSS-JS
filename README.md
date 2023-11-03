@@ -6,12 +6,14 @@
 Using HTML, CSS and Javascript to build a mini projects that may be needed for web applications. No libraries used.
 
 ##### Status:
-Count of make small projects: **2**
+Count of make small projects: **4**
 
 |#|Name of Project:|Status|
 |---|---|---|
 |01| Expanding Cards | **DONE** |
 |02| Progress Steps | **DONE** |
+|03| Rotating Navigation | **DONE** |
+|04| Hidden Search Input | **DONE** |
 
 
 ##### Sources:
