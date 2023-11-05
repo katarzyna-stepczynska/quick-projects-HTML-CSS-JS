@@ -6,7 +6,7 @@
 Using HTML, CSS and Javascript to build a mini projects that may be needed for web applications. No libraries used.
 
 ##### Status:
-Count of make small projects: **5**
+Count of make small projects: **6**
 
 |#|Name of Project:|Status|
 |---|---|---|
@@ -15,6 +15,7 @@ Count of make small projects: **5**
 |03| Rotating Navigation | **DONE** |
 |04| Hidden Search Input | **DONE** |
 |05| Blurry Loader | **DONE** |
+|06| Scroll Animation | **DONE** |
 
 
 ##### Sources:
